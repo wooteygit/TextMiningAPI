@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "database_data" : "longlexto_retraining",
+    "database_gen" : "",
+    "user" : "root",
+    "password" : "12345678"
+}
